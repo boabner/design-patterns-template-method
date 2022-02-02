@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43fcf08-a05b-4396-911a-6ccf5e3be128" name="Changes" comment="" />
+    <list default="true" id="d43fcf08-a05b-4396-911a-6ccf5e3be128" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/desconto/CalculadoraDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desconto/CalculadoraDescontos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desconto/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desconto/Desconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desconto/DescontoQuantidadeItens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desconto/DescontoQuantidadeItens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desconto/DescontoValorItens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desconto/DescontoValorItens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desconto/SemDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desconto/SemDesconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desconto/CalculadoraDescontos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/desconto/CalculadoraDescontos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desconto/Desconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/desconto/Desconto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desconto/DescontoQuantidadeItens.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/desconto/DescontoQuantidadeItens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desconto/DescontoValorItens.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/desconto/DescontoValorItens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desconto/SemDesconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/desconto/SemDesconto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/App.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24XBN379qWcakMq9L6mMAcEyFBh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,5 +78,32 @@
       <updated>1643767011780</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/desconto/DescontoValorItens.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/desconto/DescontoQuantidadeItens.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
